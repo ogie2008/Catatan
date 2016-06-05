@@ -1,0 +1,23 @@
+/var/lib/phpmyadmin/config.inc.php
+
+/etc/php5/apache2 restart
+
+php.ini for max_upload and post_upload
+
+http://stackoverflow.com/questions/20591889/site-does-not-exist-error-for-a2ensite
+(enable sites-available)
+
+config/config.php in own cloud, array change to your domain
+
+
+sudo tasksel it's like control panel
+
+
+password:ogie2008
+https://www.howtoforge.com/ubuntu-lamp-server-with-apache2-php5-mysql-on-14.04-lts
+
+over network
+https://www.youtube.com/watch?v=_CkVsorC3z4
+
+
+
